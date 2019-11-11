@@ -31,4 +31,4 @@ Population spatial mismatch and regionalization results
 
 Highly urbanized areas
 
-<img src= "/figures/Highly_Urbanized.jpg" width="300" > 
+<img src= "/figures/Highly_Urbanized.jpg" width="500" > 
